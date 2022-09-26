@@ -2,5 +2,5 @@
 (setq global-corfu-mode 1)
 (setq corfu-mode 1) ;;corfu mode is useful
 (setq )
-(echo "在本地修") ;;本地网络
 (echo "hello")
+(echo "在本地修") ;;本地网
